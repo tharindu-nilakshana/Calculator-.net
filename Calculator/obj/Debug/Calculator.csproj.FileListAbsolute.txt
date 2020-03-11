@@ -1,0 +1,10 @@
+E:\University Of Vocational Technology\UVT lectures\Semester 2\Visual Programming 1\Assignment Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\University Of Vocational Technology\UVT lectures\Semester 2\Visual Programming 1\Assignment Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\University Of Vocational Technology\UVT lectures\Semester 2\Visual Programming 1\Assignment Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\University Of Vocational Technology\UVT lectures\Semester 2\Visual Programming 1\Assignment Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\University Of Vocational Technology\UVT lectures\Semester 2\Visual Programming 1\Assignment Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\University Of Vocational Technology\UVT lectures\Semester 2\Visual Programming 1\Assignment Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\University Of Vocational Technology\UVT lectures\Semester 2\Visual Programming 1\Assignment Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\University Of Vocational Technology\UVT lectures\Semester 2\Visual Programming 1\Assignment Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\University Of Vocational Technology\UVT lectures\Semester 2\Visual Programming 1\Assignment Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+E:\University Of Vocational Technology\UVT lectures\Semester 2\Visual Programming 1\Assignment Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
